@@ -38,6 +38,12 @@ body {
     background-color: #FDFEFE;
     font-size: 1em;
 }
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
 
 header{
   width: 100%;
