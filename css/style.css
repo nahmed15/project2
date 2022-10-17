@@ -6,14 +6,14 @@ a{
     color: inherit;
 }
 section a {
-    color: #6E2C00;
+    color: #000000;
 }
 section h1 {
-    background-color: #DE3163;
+    background-color: #000000;
     color: #000000;
 }
 section h2 {
-    background-color: #DF0174;
+    background-color: #DE3163;
     font-size: 2em;
     color: #000000;
     border-top-left-radius: 30px;
@@ -22,7 +22,7 @@ section h2 {
     border-bottom-left-radius: 30px;
 }
 section h3 {
-    background-color: #98FB98;
+    background-color: #DE3163;
     color: #FFFFFF;
 }
 /* House styles below */
@@ -35,7 +35,7 @@ section h3 {
 }
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #F08080;
+    background-color: #FDFEFE;
     font-size: 1em;
 }
 
