@@ -10,7 +10,7 @@ section a {
 }
 section h1 {
     background-color: #000000;
-    color: #000000;
+    color: #FDFEFE;
 }
 section h2 {
     background-color: #DE3163;
@@ -22,7 +22,7 @@ section h2 {
     border-bottom-left-radius: 30px;
 }
 section h3 {
-    background-color: #DE3163;
+    background-color: #000000;
     color: #FFFFFF;
 }
 /* House styles below */
