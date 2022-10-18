@@ -25,15 +25,6 @@ section h3 {
     background-color: #000000;
     color: #FFFFFF;
 }
-/* House styles below */
-@font-face {
-    font-family: "American Typewriter";
-}
-webkit-any(article, aside, nav, section) h1 
-{
-    margin-block-start: 0.83em;
-    margin-block-end: 0.83em;
-}
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #FDFEFE;
