@@ -51,6 +51,11 @@ body {
 header{
   width: 100%;
 }
+.logo_img{
+	    position: absolute;
+        top: 0px;
+        right: 0px;
+}
 header nav ul{
     text-align: center;
     display: block;
