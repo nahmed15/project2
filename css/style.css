@@ -5,14 +5,14 @@ ol, ul{
 a{
     color: inherit;
 }
-section a {
+div a {
     color: #000000;
 }
-section h1 {
+div h1 {
     background-color: #000000;
     color: #FDFEFE;
 }
-section h2 {
+div h2 {
     background-color: #DE3163;
     font-size: 2em;
     color: #000000;
@@ -21,7 +21,7 @@ section h2 {
     border-bottom-right-radius: 30px;
     border-bottom-left-radius: 30px;
 }
-section h3 {
+div h3 {
     background-color: #000000;
     color: #FFFFFF;
 }
@@ -110,7 +110,7 @@ nav{
 section{
   padding: 10px 0;
 }
-section section{
+div div{
   padding: 0 10px;
 }
 main{
