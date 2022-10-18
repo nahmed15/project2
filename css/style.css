@@ -34,11 +34,13 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
+	background-color: #000000;
 }
 .vid{
     display: block;
     margin-left: auto;
     margin-right: auto;
+	background-color: #000000;
 }
 header{
   width: 100%;
