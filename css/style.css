@@ -35,7 +35,12 @@ body {
   margin-right: auto;
   background-color: #000000;
 }
-
+.vid{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #000000;
+}
 header{
   width: 100%;
 }
@@ -44,9 +49,7 @@ header{
   top: 0px;
   left: 0px;
 }
-.bg{
-  background-color: #000000;
-}
+
 header nav ul{
   text-align: center;
   display: block;
