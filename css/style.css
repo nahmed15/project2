@@ -19,6 +19,7 @@ div h2 {
   border-top-right-radius: 30px;
   border-bottom-right-radius: 30px;
   border-bottom-left-radius: 30px;
+  float: none;
 }
 div h3 {
   background-color: #000000;
@@ -55,6 +56,7 @@ header nav ul{
   display: block;
   margin: 0 auto;
   width: max-content;
+  position: up;
 }
 header nav ul li{
   margin-bottom: 5px;
